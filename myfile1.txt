@@ -1,0 +1,27 @@
+# Lưu ý mỗi bàn 1 dòng tiếng việt hay tiếng anh đều được hỗ trợ hết nha và ko được phép ghi vào dòng lưu ý này
+#Toán
+a
+#Vật Lí
+b
+#Tiếng Anh
+c
+#Tin Học
+d
+#Hóa Học
+e
+#Sinh Học
+f
+#Giáo Dục Công Dân
+g
+#Lịch Sử
+h
+#Ngữ Văn
+j
+#Công Nghệ
+k
+#Địa Lí
+p
+#link fb báo lỗi
+https://www.facebook.com/PCTPC57
+Link Học Online
+2022-©-Nguyễn Hoàng Phúc(Fb hỗ trợ https://www.facebook.com/PCTPC57/)	
