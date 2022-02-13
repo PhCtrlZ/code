@@ -1,4 +1,4 @@
-# Lưu ý mỗi bàn 1 dòng tiếng việt hay tiếng anh đều được hỗ trợ hết nha và ko được phép ghi vào dòng lưu ý này
+# Lưu ý sau mỗi môn là linh nha và ko được phép ghi vào dòng lưu ý này
 #Toán
 a
 #Vật Lí
