@@ -5,67 +5,67 @@ import webbrowser
 def toan():
 	with open('myfile1.txt', 'r' ,encoding='UTF-8') as f:
 	    datalist = f.readlines() 
-	    line2 = datalist[1]
+	    line2 = datalist[3]
 	url=line2
 	runprf = webbrowser.open_new_tab(url)
 def li():
 	with open('myfile1.txt', 'r' ,encoding='UTF-8') as f:
 	    datalist = f.readlines() 
-	    line2 = datalist[2]
+	    line2 = datalist[6]
 	url=line2
 	runprf = webbrowser.open_new_tab(url)
 def anh():
 	with open('myfile1.txt', 'r' ,encoding='UTF-8') as f:
 	    datalist = f.readlines() 
-	    line2 = datalist[3]
+	    line2 = datalist[9]
 	url=line2
 	runprf = webbrowser.open_new_tab(url)
 def tin():
 	with open('myfile1.txt', 'r' ,encoding='UTF-8') as f:
 	    datalist = f.readlines() 
-	    line2 = datalist[4]
+	    line2 = datalist[12]
 	url=line2
 	runprf = webbrowser.open_new_tab(url)
 def hoa():
 	with open('myfile1.txt', 'r' ,encoding='UTF-8') as f:
 	    datalist = f.readlines() 
-	    line2 = datalist[5]
+	    line2 = datalist[15]
 	url=line2
 	runprf = webbrowser.open_new_tab(url)
 def sinh():
 	with open('myfile1.txt', 'r' ,encoding='UTF-8') as f:
 	    datalist = f.readlines() 
-	    line2 = datalist[6]
+	    line2 = datalist[18]
 	url=line2
 	runprf = webbrowser.open_new_tab(url)
 def dia():
 	with open('myfile1.txt', 'r' ,encoding='UTF-8') as f:
 	    datalist = f.readlines() 
-	    line2 = datalist[7]
+	    line2 = datalist[21]
 	url=line2
 	runprf = webbrowser.open_new_tab(url)
 def su():
 	with open('myfile1.txt', 'r' ,encoding='UTF-8') as f:
 	    datalist = f.readlines() 
-	    line2 = datalist[8]
+	    line2 = datalist[24]
 	url=line2
 	runprf = webbrowser.open_new_tab(url)
 def gdcd():
 	with open('myfile1.txt', 'r' ,encoding='UTF-8') as f:
 	    datalist = f.readlines() 
-	    line2 = datalist[9]
+	    line2 = datalist[27]
 	url=line2
 	runprf = webbrowser.open_new_tab(url)
 def cn():
 	with open('myfile1.txt', 'r' ,encoding='UTF-8') as f:
 	    datalist = f.readlines() 
-	    line2 = datalist[10]
+	    line2 = datalist[30]
 	url=line2
 	runprf = webbrowser.open_new_tab(url)
 def van():
 	with open('myfile1.txt', 'r' ,encoding='UTF-8') as f:
 	    datalist = f.readlines() 
-	    line2 = datalist[10]
+	    line2 = datalist[33]
 	url=line2
 	runprf = webbrowser.open_new_tab(url)
 def error():
